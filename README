@@ -4,4 +4,4 @@ This is a python file. In this project we are pulling an API and compiling it in
 In the input we enter the city that we want and 
 we get the degree, humidity and other data's about that city.
 
-For running the project open cmd in your desktop, write "python 'passoffile'"  and enter. 
+For running the project open cmd in your desktop, write "python 'passoffile'" and enter. 
